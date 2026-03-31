@@ -29,8 +29,10 @@ This task involved conducting a read-only vulnerability assessment on demo.testf
 
 ## Tools Used
 - **Nmap** - Port and service enumeration
-- **Chrome DevTools** - Security header and cookie analysis
+- **FireFox DevTools** - Security header and cookie analysis
 - **Canva** - Report design
+- **Why not OWASP**
+- I attempted to use OWASP ZAP but I had installation issues on my Kali VM. so, I conducted a manual analysis using Nmap and Firefox DevTools, which successfully identified all required findings.
 
 ## Deliverables
 - [Vulnerability Assessment Report (PDF)](./Vulnerability_Assessment_Report.pdf)
