@@ -48,3 +48,7 @@ This task involved conducting a read-only vulnerability assessment on demo.testf
 - Analyzing cookie security configurations
 - Writing professional security reports
 - Presenting technical findings in business-friendly language
+
+##NOTE
+- This is according to my research i found, if I'm missing something do not hesitate to help me out
+so that i can write what is right.
