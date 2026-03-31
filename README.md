@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Task](https://img.shields.io/badge/Task-FUTURE__CS__01-blue)
+![Risk](https://img.shields.io/badge/Findings-8-yellow)
+
 # FUTURE_CS_01 - Vulnerability Assessment Report
 
 ## Task Overview
