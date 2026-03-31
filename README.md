@@ -39,7 +39,7 @@ This task involved conducting a read-only vulnerability assessment on demo.testf
 
 ## Evidence
 - [Nmap Scan Results](./evidence/nmap_scan.png)
-- [Response Headers](./evidence/response_headers.png)
+- [Response Headers](./evidence/devtools_response_headers.png)
 - [Cookie Console Test](./evidence/cookie_console.png)
 
 ## Assessment Scope
