@@ -35,7 +35,7 @@ This task involved conducting a read-only vulnerability assessment on demo.testf
   I attempted to use OWASP ZAP but I had installation issues on my Kali VM. so, I conducted a manual analysis using Nmap and Firefox DevTools, which successfully identified all required findings.
 
 ## Deliverables
-- [Vulnerability Assessment Report (PDF)](./Vulnerability_Assessment_Report.pdf)
+- [Vulnerability Assessment Report (PDF)](https://github.com/luthandogongwana/FUTURE_CS_01/blob/main/Vulnerability%20Assessment%20Report.pdf)
 
 ## Evidence
 - [Nmap Scan Results](./evidence/nmap_scan.png)
